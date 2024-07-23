@@ -1,0 +1,985 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "path": "Software Engineer Training",
+        "description": "Software engineering is a disciplined approach to designing, developing, testing, and maintaining software applications. It ensures that software is reliable, efficient, and meets user requirements through a systematic process. This includes understanding user needs, designing solutions, writing code, testing rigorously, deploying software, and providing ongoing maintenance. It blends technical skills, creativity, and problem-solving abilities, essential for developing modern software systems. Whether you're interested in mobile apps, web platforms, or complex systems, software engineering offers endless opportunities to innovate. Take this learning path to guide you in handling complex projects, improving code quality, ensuring robust testing, and maintaining scalable and secure systems. Gain the skills and knowledge needed to excel in this dynamic field.",
+        "totalHours": 84,
+        "totalMinutes": 0,
+        "totalCourses": 12,
+        "courses": [
+            { 
+                "courseId": 1, 
+                "courseName": "Introduction to Software Engineering",
+                "courseContent": "Learn the fundamentals of software engineering, including methodologies, project management, and software lifecycle." ,
+                "imgUrl": "https://www.shutterstock.com/image-vector/application-smartphone-business-graph-analytics-260nw-1583248045.jpg",
+                "instructorName": "Jennifer Weather",
+                "instructorTitle": "Professor of Computer Science, University of Oxford",
+                "instructorAvatar": "https://drive.google.com/file/d/1s-1HgbLI8xRc29Z86a5ZsTcfjOyGq9mA/view?usp=sharing",
+                "syllabuses": [
+                    {
+                        "syllabusId": 1,
+                        "syllabusName": "Software Development Lifecycle",
+                        "syllabusContent": "Understand the phases of the software development lifecycle.",
+                        "learningObjectives": [
+                            "Explain the stages of the software lifecycle.",
+                            "Identify key activities in each phase.",
+                            "Apply lifecycle models to real projects."
+                        ],
+                        "materials": [
+                            { "materialsId": 1, "materialsName": "Course Introduction", "videoUrl": "" },
+                            { "materialsId": 2, "materialsName": "Introduction to Software Development", "videoUrl": "" },
+                            { "materialsId": 3, "materialsName": "Phases of the Software Lifecycle", "videoUrl": "" },
+                            { "materialsId": 4, "materialsName": "Lifecycle Models", "videoUrl": "" },
+                            { "materialsId": 5, "materialsName": "Summary", "videoUrl": "" }
+                        ]
+                    },
+                    {
+                        "syllabusId": 2,
+                        "syllabusName": "Software Development Methodologies",
+                        "syllabusContent": "Learn about Agile, Waterfall, and other development methodologies.",
+                        "learningObjectives": [
+                            "Compare different development methodologies.",
+                            "Implement Agile practices.",
+                            "Understand Waterfall and hybrid models."
+                        ],
+                        "materials": [
+                            { "materialsId": 1, "materialsName": "Course Introduction", "videoUrl": "" },
+                            { "materialsId": 2, "materialsName": "Introduction to Development Methodologies", "videoUrl": "" },
+                            { "materialsId": 3, "materialsName": "Agile Practices", "videoUrl": "" },
+                            { "materialsId": 4, "materialsName": "Waterfall and Hybrid Models", "videoUrl": "" },
+                            { "materialsId": 5, "materialsName": "Summary", "videoUrl": "" }
+                        ]
+                    }
+                ]
+            },
+          { 
+            "courseId": 2, 
+            "courseName": "Introduction to Programming",
+            "courseContent": "Stanford's 'Introduction to Programming' provides you with the essential skills needed to start your journey in computer programming. By the end of the course, you will be able to write basic programs, understand fundamental programming concepts, and apply your knowledge across multiple programming languages. This course prepares you for more advanced topics in software development and computer science. Topics include Basics of Java, C and C++ Fundamentals, Python Programming, Understanding of JavaScript, Ruby and Ruby on Rails, Basics of HTML/CSS for Front-end Development." ,
+            "imgUrl": "https://www.shutterstock.com/image-vector/application-smartphone-business-graph-analytics-260nw-1583248045.jpg",
+            "instructorName": "Jennifer Weather",
+            "instructorTitle": "Professor of Computer Science, University of Oxford",
+            "instructorAvatar": "https://drive.google.com/file/d/1s-1HgbLI8xRc29Z86a5ZsTcfjOyGq9mA/view?usp=sharing",
+            "syllabuses": [
+                {
+                    "syllabusId": 1,
+                    "syllabusName": "Basics of Java",
+                    "syllabusContent": "This module teaches the basics of Java and begins by exploring some of the different data types such as integers, floating-point numbers, and strings. Continue with the module and learn how to use expressions in mathematical operations, store values in variables, and the many different ways to manipulate strings.",
+                    "learningObjectives": [
+                        "Demonstrate an understanding of types in Java by converting or casting data types such as strings, floats, and integers.",
+                        "Interpret variables and solve expressions by applying mathematical operations.",
+                        "Describe how to manipulate strings by using a variety of methods and operations.",
+                        "Build a program in an Integrated Development Environment (IDE) to demonstrate your knowledge of types, expressions, and variables.",
+                        "Work with, manipulate, and perform operations on strings in Java."
+                    ],
+                    "materials": [
+                        { "materialsId": 1, "materialsName": "Course Introduction", "videoUrl": "" },
+                        { "materialsId": 2, "materialsName": "Introduction to Java", "videoUrl": "" },
+                        { "materialsId": 3, "materialsName": "Getting Started with Java", "videoUrl": "" },
+                        { "materialsId": 4, "materialsName": "Types", "videoUrl": "" },
+                        { "materialsId": 5, "materialsName": "Expressions and Variables", "videoUrl": "" },
+                        { "materialsId": 6, "materialsName": "String Operations", "videoUrl": "" },
+                        { "materialsId": 6, "materialsName": "Summary", "videoUrl": "" }
+                    ]
+                },
+                {
+                    "syllabusId": 2,
+                    "syllabusName": "C and C++ Fundamentals",
+                    "syllabusContent": "Understand the basics of C and C++ programming.",
+                    "learningObjectives": [
+                        "Work with data types in C and C++.",
+                        "Apply variables and mathematical operations.",
+                        "Use string methods in C/C++.",
+                        "Perform string operations."
+                    ],
+                    "materials": [
+                        { "materialsId": 1, "materialsName": "Course Introduction", "videoUrl": "" },
+                        { "materialsId": 2, "materialsName": "Getting Started with C and C++", "videoUrl": "" },
+                        { "materialsId": 3, "materialsName": "Expressions and Variables", "videoUrl": "" },
+                        { "materialsId": 4, "materialsName": "String Operations", "videoUrl": "" },
+                        { "materialsId": 5, "materialsName": "Summary", "videoUrl": "" }
+                    ]
+                },
+                {
+                    "syllabusId": 3,
+                    "syllabusName": "Python Programming",
+                    "syllabusContent": "Learn Python programming fundamentals.",
+                    "learningObjectives": [
+                        "Understand Python data types.",
+                        "Use variables and expressions.",
+                        "Manipulate strings."
+                    ],
+                    "materials": [
+                        { "materialsId": 1, "materialsName": "Course Introduction", "videoUrl": "" },
+                        { "materialsId": 2, "materialsName": "Introduction to Python", "videoUrl": "" },
+                        { "materialsId": 3, "materialsName": "Getting Started with Python", "videoUrl": "" },
+                        { "materialsId": 4, "materialsName": "Types", "videoUrl": "" },
+                        { "materialsId": 5, "materialsName": "Expressions and Variables", "videoUrl": "" },
+                        { "materialsId": 6, "materialsName": "String Operations", "videoUrl": "" },
+                        { "materialsId": 7, "materialsName": "Summary", "videoUrl": "" }
+                    ]
+                },
+                {
+                    "syllabusId": 4,
+                    "syllabusName": "Understanding JavaScript",
+                    "syllabusContent": "Grasp JavaScript basics and its use in web development.",
+                    "learningObjectives": [
+                        "Understand JavaScript data types.",
+                        "Use variables and mathematical operations.",
+                        "Manipulate strings.",
+                        "Develop JavaScript programs.",
+                        "Perform operations on strings."
+                    ],
+                    "materials": [
+                        { "materialsId": 1, "materialsName": "Course Introduction", "videoUrl": "" },
+                        { "materialsId": 2, "materialsName": "Introduction to JavaScript", "videoUrl": "" },
+                        { "materialsId": 3, "materialsName": "Getting Started with JavaScript", "videoUrl": "" },
+                        { "materialsId": 4, "materialsName": "Types", "videoUrl": "" },
+                        { "materialsId": 5, "materialsName": "Expressions and Variables", "videoUrl": "" },
+                        { "materialsId": 6, "materialsName": "String Operations", "videoUrl": "" },
+                        { "materialsId": 7, "materialsName": "Summary", "videoUrl": "" }
+                    ]
+                },
+                {
+                    "syllabusId": 5,
+                    "syllabusName": "Ruby and Ruby on Rails",
+                    "syllabusContent": "Learn the fundamentals of Ruby and Ruby on Rails.",
+                    "learningObjectives": [
+                        "Understand Ruby data types.",
+                        "Use variables and expressions.",
+                        "Manipulate strings.",
+                        "Develop Ruby programs.",
+                        "Perform string operations."
+                    ],
+                    "materials": [
+                        { "materialsId": 1, "materialsName": "Course Introduction", "videoUrl": "" },
+                        { "materialsId": 2, "materialsName": "Introduction to Ruby", "videoUrl": "" },
+                        { "materialsId": 3, "materialsName": "Getting Started with Ruby", "videoUrl": "" },
+                        { "materialsId": 4, "materialsName": "Types", "videoUrl": "" },
+                        { "materialsId": 5, "materialsName": "Expressions and Variables", "videoUrl": "" },
+                        { "materialsId": 6, "materialsName": "String Operations", "videoUrl": "" },
+                        { "materialsId": 7, "materialsName": "Summary", "videoUrl": "" }
+                    ]
+                },
+                {
+                    "syllabusId": 6,
+                    "syllabusName": "HTML/CSS for Front-end Development",
+                    "syllabusContent": "Understand the basics of HTML and CSS for web development.",
+                    "learningObjectives": [
+                        "Understand HTML elements and attributes.",
+                        "Use CSS for styling.",
+                        "Create responsive designs.",
+                        "Build web pages with HTML and CSS."
+                    ],
+                    "materials": [
+                        { "materialsId": 1, "materialsName": "Course Introduction", "videoUrl": "" },
+                        { "materialsId": 2, "materialsName": "Introduction to HTML/CSS", "videoUrl": "" },
+                        { "materialsId": 3, "materialsName": "Getting Started with HTML/CSS", "videoUrl": "" },
+                        { "materialsId": 4, "materialsName": "HTML Elements", "videoUrl": "" },
+                        { "materialsId": 5, "materialsName": "CSS Styling", "videoUrl": "" },
+                        { "materialsId": 6, "materialsName": "Summary", "videoUrl": "" }
+                    ]
+                }
+            ]
+        },
+        { 
+            "courseId": 3, 
+            "courseName": "Data Structures & Algorithms",
+            "courseContent": "Explore essential data structures and algorithms for efficient problem-solving in computer science." ,
+            "imgUrl": "https://www.shutterstock.com/image-vector/application-smartphone-business-graph-analytics-260nw-1583248045.jpg",
+            "instructorName": "Michael Johnson",
+            "instructorTitle": "Senior Lecturer in Computer Science, MIT",
+            "instructorAvatar": "https://drive.google.com/file/d/1s-1HgbLI8xRc29Z86a5ZsTcfjOyGq9mA/view?usp=sharing",
+            "syllabuses": [
+                {
+                    "syllabusId": 1,
+                    "syllabusName": "Basic Data Structures",
+                    "syllabusContent": "Study arrays, linked lists, stacks, and queues.",
+                    "learningObjectives": [
+                        "Implement basic data structures.",
+                        "Understand their operations and use cases.",
+                        "Compare time and space complexity."
+                    ],
+                    "materials": [
+                        { "materialsId": 1, "materialsName": "Course Introduction", "videoUrl": "" },
+                        { "materialsId": 2, "materialsName": "Arrays and Linked Lists", "videoUrl": "" },
+                        { "materialsId": 3, "materialsName": "Stacks and Queues", "videoUrl": "" },
+                        { "materialsId": 4, "materialsName": "Summary", "videoUrl": "" }
+                    ]
+                },
+                {
+                    "syllabusId": 2,
+                    "syllabusName": "Sorting and Searching Algorithms",
+                    "syllabusContent": "Learn about different sorting and searching techniques.",
+                    "learningObjectives": [
+                        "Implement sorting algorithms.",
+                        "Understand searching algorithms.",
+                        "Analyze algorithm efficiency."
+                    ],
+                    "materials": [
+                        { "materialsId": 1, "materialsName": "Course Introduction", "videoUrl": "" },
+                        { "materialsId": 2, "materialsName": "Sorting Techniques", "videoUrl": "" },
+                        { "materialsId": 3, "materialsName": "Searching Methods", "videoUrl": "" },
+                        { "materialsId": 4, "materialsName": "Summary", "videoUrl": "" }
+                    ]
+                },
+                {
+                    "syllabusId": 3,
+                    "syllabusName": "Advanced Data Structures",
+                    "syllabusContent": "Explore trees, graphs, and hash tables.",
+                    "learningObjectives": [
+                        "Implement advanced data structures.",
+                        "Solve complex problems using trees and graphs.",
+                        "Use hash tables for efficient data retrieval."
+                    ],
+                    "materials": [
+                        { "materialsId": 1, "materialsName": "Course Introduction", "videoUrl": "" },
+                        { "materialsId": 2, "materialsName": "Trees and Graphs", "videoUrl": "" },
+                        { "materialsId": 3, "materialsName": "Hash Tables", "videoUrl": "" },
+                        { "materialsId": 4, "materialsName": "Summary", "videoUrl": "" }
+                    ]
+                }
+            ]
+        },
+        { 
+            "courseId": 4, 
+            "courseName": "Databases",
+            "courseContent": "Gain a comprehensive understanding of database concepts, design, and SQL." ,
+            "imgUrl": "https://www.shutterstock.com/image-vector/application-smartphone-business-graph-analytics-260nw-1583248045.jpg",
+            "instructorName": "Sarah Williams",
+            "instructorTitle": "Professor of Computer Science, Stanford University",
+            "instructorAvatar": "https://drive.google.com/file/d/1s-1HgbLI8xRc29Z86a5ZsTcfjOyGq9mA/view?usp=sharing",
+            "syllabuses": [
+                {
+                    "syllabusId": 1,
+                    "syllabusName": "Introduction to Databases",
+                    "syllabusContent": "Learn the basics of databases and database management systems (DBMS).",
+                    "learningObjectives": [
+                        "Understand database concepts.",
+                        "Explain DBMS architecture.",
+                        "Identify different types of databases."
+                    ],
+                    "materials": [
+                        { "materialsId": 1, "materialsName": "Course Introduction", "videoUrl": "" },
+                        { "materialsId": 2, "materialsName": "Database Concepts", "videoUrl": "" },
+                        { "materialsId": 3, "materialsName": "DBMS Architecture", "videoUrl": "" },
+                        { "materialsId": 4, "materialsName": "Types of Databases", "videoUrl": "" },
+                        { "materialsId": 5, "materialsName": "Summary", "videoUrl": "" }
+                    ]
+                },
+                {
+                    "syllabusId": 2,
+                    "syllabusName": "Database Design",
+                    "syllabusContent": "Learn how to design efficient and normalized databases.",
+                    "learningObjectives": [
+                        "Implement sorting algorithms.",
+                        "Understand searching algorithms.",
+                        "Analyze algorithm efficiency."
+                    ],
+                    "materials": [
+                        { "materialsId": 1, "materialsName": "Course Introduction", "videoUrl": "" },
+                        { "materialsId": 2, "materialsName": "Sorting Techniques", "videoUrl": "" },
+                        { "materialsId": 3, "materialsName": "Searching Methods", "videoUrl": "" },
+                        { "materialsId": 4, "materialsName": "Summary", "videoUrl": "" }
+                    ]
+                }
+            ]
+        },
+        { 
+            "courseId": 5, 
+            "courseName": "Basic Testing & Debugging",
+            "courseContent": "Learn the fundamentals of software testing and debugging to ensure code quality." ,
+            "imgUrl": "https://www.shutterstock.com/image-vector/application-smartphone-business-graph-analytics-260nw-1583248045.jpg",
+            "instructorName": "John Doe",
+            "instructorTitle": "Senior Software Engineer, Google",
+            "instructorAvatar": "https://drive.google.com/file/d/1s-1HgbLI8xRc29Z86a5ZsTcfjOyGq9mA/view?usp=sharing",
+            "syllabuses": [
+                {
+                    "syllabusId": 1,
+                    "syllabusName": "Introduction to Testing",
+                    "syllabusContent": "Learn the basics of databases and database management systems (DBMS).",
+                    "learningObjectives": [
+                        "Understand database concepts.",
+                        "Explain DBMS architecture.",
+                        "Identify different types of databases."
+                    ],
+                    "materials": [
+                        { "materialsId": 1, "materialsName": "Course Introduction", "videoUrl": "" },
+                        { "materialsId": 2, "materialsName": "Database Concepts", "videoUrl": "" },
+                        { "materialsId": 3, "materialsName": "DBMS Architecture", "videoUrl": "" },
+                        { "materialsId": 4, "materialsName": "Types of Databases", "videoUrl": "" },
+                        { "materialsId": 5, "materialsName": "Summary", "videoUrl": "" }
+                    ]
+                },
+                {
+                    "syllabusId": 2,
+                    "syllabusName": "Debugging Techniques",
+                    "syllabusContent": "Learn how to design efficient and normalized databases.",
+                    "learningObjectives": [
+                        "Implement sorting algorithms.",
+                        "Understand searching algorithms.",
+                        "Analyze algorithm efficiency."
+                    ],
+                    "materials": [
+                        { "materialsId": 1, "materialsName": "Course Introduction", "videoUrl": "" },
+                        { "materialsId": 2, "materialsName": "Sorting Techniques", "videoUrl": "" },
+                        { "materialsId": 3, "materialsName": "Searching Methods", "videoUrl": "" },
+                        { "materialsId": 4, "materialsName": "Summary", "videoUrl": "" }
+                    ]
+                }
+            ]
+        },
+        { 
+            "courseId": 6, 
+            "courseName": "Mobile Development Basics",
+            "courseContent": "Learn the fundamentals of mobile app development for iOS and Android." ,
+            "imgUrl": "https://www.shutterstock.com/image-vector/application-smartphone-business-graph-analytics-260nw-1583248045.jpg",
+            "instructorName": "Alice Johnson",
+            "instructorTitle": "Mobile App Developer, Apple",
+            "instructorAvatar": "https://drive.google.com/file/d/1s-1HgbLI8xRc29Z86a5ZsTcfjOyGq9mA/view?usp=sharing",
+            "syllabuses": [
+                {
+                    "syllabusId": 1,
+                    "syllabusName": "Introduction to Mobile Development",
+                    "syllabusContent": "Understand mobile development environments and tools..",
+                    "learningObjectives": [
+                        "Understand database concepts.",
+                        "Explain DBMS architecture.",
+                        "Identify different types of databases."
+                    ],
+                    "materials": [
+                        { "materialsId": 1, "materialsName": "Course Introduction", "videoUrl": "" },
+                        { "materialsId": 2, "materialsName": "Database Concepts", "videoUrl": "" },
+                        { "materialsId": 3, "materialsName": "DBMS Architecture", "videoUrl": "" },
+                        { "materialsId": 4, "materialsName": "Types of Databases", "videoUrl": "" },
+                        { "materialsId": 5, "materialsName": "Summary", "videoUrl": "" }
+                    ]
+                },
+                {
+                    "syllabusId": 2,
+                    "syllabusName": "Building Simple Mobile Apps",
+                    "syllabusContent": "Learn how to design efficient and normalized databases.",
+                    "learningObjectives": [
+                        "Implement sorting algorithms.",
+                        "Understand searching algorithms.",
+                        "Analyze algorithm efficiency."
+                    ],
+                    "materials": [
+                        { "materialsId": 1, "materialsName": "Course Introduction", "videoUrl": "" },
+                        { "materialsId": 2, "materialsName": "Sorting Techniques", "videoUrl": "" },
+                        { "materialsId": 3, "materialsName": "Searching Methods", "videoUrl": "" },
+                        { "materialsId": 4, "materialsName": "Summary", "videoUrl": "" }
+                    ]
+                },
+                {
+                    "syllabusId": 3,
+                    "syllabusName": "Mobile App Deployment",
+                    "syllabusContent": "Apply HTML, CSS, and JavaScript to create a basic website.",
+                    "learningObjectives": [
+                        "Implement sorting algorithms.",
+                        "Understand searching algorithms.",
+                        "Analyze algorithm efficiency."
+                    ],
+                    "materials": [
+                        { "materialsId": 1, "materialsName": "Course Introduction", "videoUrl": "" },
+                        { "materialsId": 2, "materialsName": "Sorting Techniques", "videoUrl": "" },
+                        { "materialsId": 3, "materialsName": "Searching Methods", "videoUrl": "" },
+                        { "materialsId": 4, "materialsName": "Summary", "videoUrl": "" }
+                    ]
+                }
+            ]
+        },
+        { 
+            "courseId": 7, 
+            "courseName": "Version Control System (VCS)",
+            "courseContent": "Master version control systems, focusing on Git and GitHub." ,
+            "imgUrl": "https://www.shutterstock.com/image-vector/application-smartphone-business-graph-analytics-260nw-1583248045.jpg",
+            "instructorName": "David Brown",
+            "instructorTitle": "DevOps Engineer, Microsoft",
+            "instructorAvatar": "https://drive.google.com/file/d/1s-1HgbLI8xRc29Z86a5ZsTcfjOyGq9mA/view?usp=sharing",
+            "syllabuses": [
+                {
+                    "syllabusId": 1,
+                    "syllabusName": "Introduction to Version Control",
+                    "syllabusContent": "Learn the basics of databases and database management systems (DBMS).",
+                    "learningObjectives": [
+                        "Understand database concepts.",
+                        "Explain DBMS architecture.",
+                        "Identify different types of databases."
+                    ],
+                    "materials": [
+                        { "materialsId": 1, "materialsName": "Course Introduction", "videoUrl": "" },
+                        { "materialsId": 2, "materialsName": "Database Concepts", "videoUrl": "" },
+                        { "materialsId": 3, "materialsName": "DBMS Architecture", "videoUrl": "" },
+                        { "materialsId": 4, "materialsName": "Types of Databases", "videoUrl": "" },
+                        { "materialsId": 5, "materialsName": "Summary", "videoUrl": "" }
+                    ]
+                },
+                {
+                    "syllabusId": 2,
+                    "syllabusName": "Git Fundamentals",
+                    "syllabusContent": "Learn how to design efficient and normalized databases.",
+                    "learningObjectives": [
+                        "Implement sorting algorithms.",
+                        "Understand searching algorithms.",
+                        "Analyze algorithm efficiency."
+                    ],
+                    "materials": [
+                        { "materialsId": 1, "materialsName": "Course Introduction", "videoUrl": "" },
+                        { "materialsId": 2, "materialsName": "Sorting Techniques", "videoUrl": "" },
+                        { "materialsId": 3, "materialsName": "Searching Methods", "videoUrl": "" },
+                        { "materialsId": 4, "materialsName": "Summary", "videoUrl": "" }
+                    ]
+                },
+                {
+                    "syllabusId": 3,
+                    "syllabusName": "Using GitHub",
+                    "syllabusContent": "Apply HTML, CSS, and JavaScript to create a basic website.",
+                    "learningObjectives": [
+                        "Implement sorting algorithms.",
+                        "Understand searching algorithms.",
+                        "Analyze algorithm efficiency."
+                    ],
+                    "materials": [
+                        { "materialsId": 1, "materialsName": "Course Introduction", "videoUrl": "" },
+                        { "materialsId": 2, "materialsName": "Sorting Techniques", "videoUrl": "" },
+                        { "materialsId": 3, "materialsName": "Searching Methods", "videoUrl": "" },
+                        { "materialsId": 4, "materialsName": "Summary", "videoUrl": "" }
+                    ]
+                }
+            ]
+        },
+        { 
+            "courseId": 8, 
+            "courseName": "Introduction to Operating Systems",
+            "courseContent": "Understand the core concepts and functions of operating systems." ,
+            "imgUrl": "https://www.shutterstock.com/image-vector/application-smartphone-business-graph-analytics-260nw-1583248045.jpg",
+            "instructorName": "Laura White",
+            "instructorTitle": "Professor of Computer Science, MIT",
+            "instructorAvatar": "https://drive.google.com/file/d/1s-1HgbLI8xRc29Z86a5ZsTcfjOyGq9mA/view?usp=sharing",
+            "syllabuses": [
+                {
+                    "syllabusId": 1,
+                    "syllabusName": "Operating System Basics",
+                    "syllabusContent": "Learn the basics of databases and database management systems (DBMS).",
+                    "learningObjectives": [
+                        "Understand database concepts.",
+                        "Explain DBMS architecture.",
+                        "Identify different types of databases."
+                    ],
+                    "materials": [
+                        { "materialsId": 1, "materialsName": "Course Introduction", "videoUrl": "" },
+                        { "materialsId": 2, "materialsName": "Database Concepts", "videoUrl": "" },
+                        { "materialsId": 3, "materialsName": "DBMS Architecture", "videoUrl": "" },
+                        { "materialsId": 4, "materialsName": "Types of Databases", "videoUrl": "" },
+                        { "materialsId": 5, "materialsName": "Summary", "videoUrl": "" }
+                    ]
+                },
+                {
+                    "syllabusId": 2,
+                    "syllabusName": "File Systems and Storage",
+                    "syllabusContent": "Learn how to design efficient and normalized databases.",
+                    "learningObjectives": [
+                        "Implement sorting algorithms.",
+                        "Understand searching algorithms.",
+                        "Analyze algorithm efficiency."
+                    ],
+                    "materials": [
+                        { "materialsId": 1, "materialsName": "Course Introduction", "videoUrl": "" },
+                        { "materialsId": 2, "materialsName": "Sorting Techniques", "videoUrl": "" },
+                        { "materialsId": 3, "materialsName": "Searching Methods", "videoUrl": "" },
+                        { "materialsId": 4, "materialsName": "Summary", "videoUrl": "" }
+                    ]
+                },
+                {
+                    "syllabusId": 3,
+                    "syllabusName": "Security and Protectione",
+                    "syllabusContent": "Apply HTML, CSS, and JavaScript to create a basic website.",
+                    "learningObjectives": [
+                        "Implement sorting algorithms.",
+                        "Understand searching algorithms.",
+                        "Analyze algorithm efficiency."
+                    ],
+                    "materials": [
+                        { "materialsId": 1, "materialsName": "Course Introduction", "videoUrl": "" },
+                        { "materialsId": 2, "materialsName": "Sorting Techniques", "videoUrl": "" },
+                        { "materialsId": 3, "materialsName": "Searching Methods", "videoUrl": "" },
+                        { "materialsId": 4, "materialsName": "Summary", "videoUrl": "" }
+                    ]
+                }
+            ]
+        },
+        { 
+            "courseId": 9, 
+            "courseName": "Software Architecture & Design Pattern",
+            "courseContent": "Explore software architecture principles and design patterns." ,
+            "imgUrl": "https://www.shutterstock.com/image-vector/application-smartphone-business-graph-analytics-260nw-1583248045.jpg",
+            "instructorName": "Robert Martin",
+            "instructorTitle": "Senior Software Architect, Clean Coders",
+            "instructorAvatar": "https://drive.google.com/file/d/1s-1HgbLI8xRc29Z86a5ZsTcfjOyGq9mA/view?usp=sharing",
+            "syllabuses": [
+                {
+                    "syllabusId": 1,
+                    "syllabusName": "Introduction to Software Architecture",
+                    "syllabusContent": "Learn the basics of databases and database management systems (DBMS).",
+                    "learningObjectives": [
+                        "Understand database concepts.",
+                        "Explain DBMS architecture.",
+                        "Identify different types of databases."
+                    ],
+                    "materials": [
+                        { "materialsId": 1, "materialsName": "Course Introduction", "videoUrl": "" },
+                        { "materialsId": 2, "materialsName": "Database Concepts", "videoUrl": "" },
+                        { "materialsId": 3, "materialsName": "DBMS Architecture", "videoUrl": "" },
+                        { "materialsId": 4, "materialsName": "Types of Databases", "videoUrl": "" },
+                        { "materialsId": 5, "materialsName": "Summary", "videoUrl": "" }
+                    ]
+                },
+                {
+                    "syllabusId": 2,
+                    "syllabusName": "Design Patterns",
+                    "syllabusContent": "Learn how to design efficient and normalized databases.",
+                    "learningObjectives": [
+                        "Implement sorting algorithms.",
+                        "Understand searching algorithms.",
+                        "Analyze algorithm efficiency."
+                    ],
+                    "materials": [
+                        { "materialsId": 1, "materialsName": "Course Introduction", "videoUrl": "" },
+                        { "materialsId": 2, "materialsName": "Sorting Techniques", "videoUrl": "" },
+                        { "materialsId": 3, "materialsName": "Searching Methods", "videoUrl": "" },
+                        { "materialsId": 4, "materialsName": "Summary", "videoUrl": "" }
+                    ]
+                }
+            ]
+        },
+        { 
+            "courseId": 10, 
+            "courseName": "Object-Oriented Programming (OOP)",
+            "courseContent": "Master the principles and concepts of object-oriented programming." ,
+            "imgUrl": "https://www.shutterstock.com/image-vector/application-smartphone-business-graph-analytics-260nw-1583248045.jpg",
+            "instructorName": "Richard Stallman",
+            "instructorTitle": "Software Freedom Activist",
+            "instructorAvatar": "https://drive.google.com/file/d/1s-1HgbLI8xRc29Z86a5ZsTcfjOyGq9mA/view?usp=sharing",
+            "syllabuses": [
+                {
+                    "syllabusId": 1,
+                    "syllabusName": "OOP Fundamentals",
+                    "syllabusContent": "Learn the basics of databases and database management systems (DBMS).",
+                    "learningObjectives": [
+                        "Understand database concepts.",
+                        "Explain DBMS architecture.",
+                        "Identify different types of databases."
+                    ],
+                    "materials": [
+                        { "materialsId": 1, "materialsName": "Course Introduction", "videoUrl": "" },
+                        { "materialsId": 2, "materialsName": "Database Concepts", "videoUrl": "" },
+                        { "materialsId": 3, "materialsName": "DBMS Architecture", "videoUrl": "" },
+                        { "materialsId": 4, "materialsName": "Types of Databases", "videoUrl": "" },
+                        { "materialsId": 5, "materialsName": "Summary", "videoUrl": "" }
+                    ]
+                },
+                {
+                    "syllabusId": 2,
+                    "syllabusName": "Advanced OOP Concepts",
+                    "syllabusContent": "Learn how to design efficient and normalized databases.",
+                    "learningObjectives": [
+                        "Implement sorting algorithms.",
+                        "Understand searching algorithms.",
+                        "Analyze algorithm efficiency."
+                    ],
+                    "materials": [
+                        { "materialsId": 1, "materialsName": "Course Introduction", "videoUrl": "" },
+                        { "materialsId": 2, "materialsName": "Sorting Techniques", "videoUrl": "" },
+                        { "materialsId": 3, "materialsName": "Searching Methods", "videoUrl": "" },
+                        { "materialsId": 4, "materialsName": "Summary", "videoUrl": "" }
+                    ]
+                }
+            ]
+        },
+        { 
+            "courseId": 11, 
+            "courseName": "Introduction to Cloud Computing",
+            "courseContent": "Learn the basics of cloud computing and its applications.." ,
+            "imgUrl": "https://www.shutterstock.com/image-vector/application-smartphone-business-graph-analytics-260nw-1583248045.jpg",
+            "instructorName": "Mark Anderson",
+            "instructorTitle": "Cloud Architect, Amazon Web Services",
+            "instructorAvatar": "https://drive.google.com/file/d/1s-1HgbLI8xRc29Z86a5ZsTcfjOyGq9mA/view?usp=sharing",
+            "syllabuses": [
+                {
+                    "syllabusId": 1,
+                    "syllabusName": "Cloud Computing Fundamentals",
+                    "syllabusContent": "Learn the basics of databases and database management systems (DBMS).",
+                    "learningObjectives": [
+                        "Understand database concepts.",
+                        "Explain DBMS architecture.",
+                        "Identify different types of databases."
+                    ],
+                    "materials": [
+                        { "materialsId": 1, "materialsName": "Course Introduction", "videoUrl": "" },
+                        { "materialsId": 2, "materialsName": "Database Concepts", "videoUrl": "" },
+                        { "materialsId": 3, "materialsName": "DBMS Architecture", "videoUrl": "" },
+                        { "materialsId": 4, "materialsName": "Types of Databases", "videoUrl": "" },
+                        { "materialsId": 5, "materialsName": "Summary", "videoUrl": "" }
+                    ]
+                },
+                {
+                    "syllabusId": 2,
+                    "syllabusName": "Cloud Services",
+                    "syllabusContent": "Learn how to design efficient and normalized databases.",
+                    "learningObjectives": [
+                        "Implement sorting algorithms.",
+                        "Understand searching algorithms.",
+                        "Analyze algorithm efficiency."
+                    ],
+                    "materials": [
+                        { "materialsId": 1, "materialsName": "Course Introduction", "videoUrl": "" },
+                        { "materialsId": 2, "materialsName": "Sorting Techniques", "videoUrl": "" },
+                        { "materialsId": 3, "materialsName": "Searching Methods", "videoUrl": "" },
+                        { "materialsId": 4, "materialsName": "Summary", "videoUrl": "" }
+                    ]
+                },
+                {
+                    "syllabusId": 3,
+                    "syllabusName": "Cloud Security and Compliance",
+                    "syllabusContent": "Apply HTML, CSS, and JavaScript to create a basic website.",
+                    "learningObjectives": [
+                        "Implement sorting algorithms.",
+                        "Understand searching algorithms.",
+                        "Analyze algorithm efficiency."
+                    ],
+                    "materials": [
+                        { "materialsId": 1, "materialsName": "Course Introduction", "videoUrl": "" },
+                        { "materialsId": 2, "materialsName": "Sorting Techniques", "videoUrl": "" },
+                        { "materialsId": 3, "materialsName": "Searching Methods", "videoUrl": "" },
+                        { "materialsId": 4, "materialsName": "Summary", "videoUrl": "" }
+                    ]
+                }
+            ]
+        }
+        ]
+      },
+      {
+        "id": 2,
+        "path": "Mastering UI/UX",
+        "description": "Understand the fundamentals of user experience design, including research methods, user personas, and usability testing.",
+        "totalHours": 60,
+        "totalMinutes": 0,
+        "totalCourses": 6,
+        "courses": [
+            { 
+                "courseId": 1, 
+                "courseName": "Introduction to User Experience (UX) Design",
+                "courseContent": "Understand the fundamentals of user experience design, including research methods, user personas, and usability testing." ,
+                "imgUrl": "https://www.shutterstock.com/image-vector/application-smartphone-business-graph-analytics-260nw-1583248045.jpg",
+                "instructorName": "Alexandra Green",
+                "instructorTitle": "Senior UX Designer, Google",
+                "instructorAvatar": "https://drive.google.com/file/d/1s-1HgbLI8xRc29Z86a5ZsTcfjOyGq9mA/view?usp=sharing",
+                "syllabuses": [
+                    {
+                        "syllabusId": 1,
+                        "syllabusName": "Foundations of UX Design",
+                        "syllabusContent": "Understand the phases of the software development lifecycle.",
+                        "learningObjectives": [
+                            "Explain the stages of the software lifecycle.",
+                            "Identify key activities in each phase.",
+                            "Apply lifecycle models to real projects."
+                        ],
+                        "materials": [
+                            { "materialsId": 1, "materialsName": "Course Introduction", "videoUrl": "" },
+                            { "materialsId": 2, "materialsName": "Introduction to Software Development", "videoUrl": "" },
+                            { "materialsId": 3, "materialsName": "Phases of the Software Lifecycle", "videoUrl": "" },
+                            { "materialsId": 4, "materialsName": "Lifecycle Models", "videoUrl": "" },
+                            { "materialsId": 5, "materialsName": "Summary", "videoUrl": "" }
+                        ]
+                    },
+                    {
+                        "syllabusId": 2,
+                        "syllabusName": "User Research and Personas",
+                        "syllabusContent": "Learn about Agile, Waterfall, and other development methodologies.",
+                        "learningObjectives": [
+                            "Compare different development methodologies.",
+                            "Implement Agile practices.",
+                            "Understand Waterfall and hybrid models."
+                        ],
+                        "materials": [
+                            { "materialsId": 1, "materialsName": "Course Introduction", "videoUrl": "" },
+                            { "materialsId": 2, "materialsName": "Introduction to Development Methodologies", "videoUrl": "" },
+                            { "materialsId": 3, "materialsName": "Agile Practices", "videoUrl": "" },
+                            { "materialsId": 4, "materialsName": "Waterfall and Hybrid Models", "videoUrl": "" },
+                            { "materialsId": 5, "materialsName": "Summary", "videoUrl": "" }
+                        ]
+                    },
+                    {
+                        "syllabusId": 3,
+                        "syllabusName": "Usability Testing",
+                        "syllabusContent": "Learn about Agile, Waterfall, and other development methodologies.",
+                        "learningObjectives": [
+                            "Compare different development methodologies.",
+                            "Implement Agile practices.",
+                            "Understand Waterfall and hybrid models."
+                        ],
+                        "materials": [
+                            { "materialsId": 1, "materialsName": "Course Introduction", "videoUrl": "" },
+                            { "materialsId": 2, "materialsName": "Introduction to Development Methodologies", "videoUrl": "" },
+                            { "materialsId": 3, "materialsName": "Agile Practices", "videoUrl": "" },
+                            { "materialsId": 4, "materialsName": "Waterfall and Hybrid Models", "videoUrl": "" },
+                            { "materialsId": 5, "materialsName": "Summary", "videoUrl": "" }
+                        ]
+                    }
+                ]
+            },
+            { 
+                "courseId": 2, 
+                "courseName": "User Interface (UI) Design Principles",
+                "courseContent": "Explore essential UI design principles, including color theory, typography, and visual hierarchy." ,
+                "imgUrl": "https://www.shutterstock.com/image-vector/application-smartphone-business-graph-analytics-260nw-1583248045.jpg",
+                "instructorName": "Brian Mitchell",
+                "instructorTitle": "Lead UI Designer, Apple",
+                "instructorAvatar": "https://drive.google.com/file/d/1s-1HgbLI8xRc29Z86a5ZsTcfjOyGq9mA/view?usp=sharing",
+                "syllabuses": [
+                    {
+                        "syllabusId": 1,
+                        "syllabusName": "Visual Design Basics",
+                        "syllabusContent": "Understand the phases of the software development lifecycle.",
+                        "learningObjectives": [
+                            "Explain the stages of the software lifecycle.",
+                            "Identify key activities in each phase.",
+                            "Apply lifecycle models to real projects."
+                        ],
+                        "materials": [
+                            { "materialsId": 1, "materialsName": "Course Introduction", "videoUrl": "" },
+                            { "materialsId": 2, "materialsName": "Introduction to Software Development", "videoUrl": "" },
+                            { "materialsId": 3, "materialsName": "Phases of the Software Lifecycle", "videoUrl": "" },
+                            { "materialsId": 4, "materialsName": "Lifecycle Models", "videoUrl": "" },
+                            { "materialsId": 5, "materialsName": "Summary", "videoUrl": "" }
+                        ]
+                    },
+                    {
+                        "syllabusId": 2,
+                        "syllabusName": "Designing User Interfaces",
+                        "syllabusContent": "Learn about Agile, Waterfall, and other development methodologies.",
+                        "learningObjectives": [
+                            "Compare different development methodologies.",
+                            "Implement Agile practices.",
+                            "Understand Waterfall and hybrid models."
+                        ],
+                        "materials": [
+                            { "materialsId": 1, "materialsName": "Course Introduction", "videoUrl": "" },
+                            { "materialsId": 2, "materialsName": "Introduction to Development Methodologies", "videoUrl": "" },
+                            { "materialsId": 3, "materialsName": "Agile Practices", "videoUrl": "" },
+                            { "materialsId": 4, "materialsName": "Waterfall and Hybrid Models", "videoUrl": "" },
+                            { "materialsId": 5, "materialsName": "Summary", "videoUrl": "" }
+                        ]
+                    },
+                    {
+                        "syllabusId": 3,
+                        "syllabusName": "Prototyping and Wireframing",
+                        "syllabusContent": "Learn about Agile, Waterfall, and other development methodologies.",
+                        "learningObjectives": [
+                            "Compare different development methodologies.",
+                            "Implement Agile practices.",
+                            "Understand Waterfall and hybrid models."
+                        ],
+                        "materials": [
+                            { "materialsId": 1, "materialsName": "Course Introduction", "videoUrl": "" },
+                            { "materialsId": 2, "materialsName": "Introduction to Development Methodologies", "videoUrl": "" },
+                            { "materialsId": 3, "materialsName": "Agile Practices", "videoUrl": "" },
+                            { "materialsId": 4, "materialsName": "Waterfall and Hybrid Models", "videoUrl": "" },
+                            { "materialsId": 5, "materialsName": "Summary", "videoUrl": "" }
+                        ]
+                    }
+                ]
+            },
+            { 
+                "courseId": 3, 
+                "courseName": "Interaction Design",
+                "courseContent": "Learn about interaction design principles, including user flows, animations, and interactive elements." ,
+                "imgUrl": "https://www.shutterstock.com/image-vector/application-smartphone-business-graph-analytics-260nw-1583248045.jpg",
+                "instructorName": "Sophia Lee",
+                "instructorTitle": "Interaction Designer, Facebook",
+                "instructorAvatar": "https://drive.google.com/file/d/1s-1HgbLI8xRc29Z86a5ZsTcfjOyGq9mA/view?usp=sharing",
+                "syllabuses": [
+                    {
+                        "syllabusId": 1,
+                        "syllabusName": "Interaction Design Basics",
+                        "syllabusContent": "Understand the phases of the software development lifecycle.",
+                        "learningObjectives": [
+                            "Explain the stages of the software lifecycle.",
+                            "Identify key activities in each phase.",
+                            "Apply lifecycle models to real projects."
+                        ],
+                        "materials": [
+                            { "materialsId": 1, "materialsName": "Course Introduction", "videoUrl": "" },
+                            { "materialsId": 2, "materialsName": "Introduction to Software Development", "videoUrl": "" },
+                            { "materialsId": 3, "materialsName": "Phases of the Software Lifecycle", "videoUrl": "" },
+                            { "materialsId": 4, "materialsName": "Lifecycle Models", "videoUrl": "" },
+                            { "materialsId": 5, "materialsName": "Summary", "videoUrl": "" }
+                        ]
+                    },
+                    {
+                        "syllabusId": 2,
+                        "syllabusName": "Designing Animations",
+                        "syllabusContent": "Learn about Agile, Waterfall, and other development methodologies.",
+                        "learningObjectives": [
+                            "Compare different development methodologies.",
+                            "Implement Agile practices.",
+                            "Understand Waterfall and hybrid models."
+                        ],
+                        "materials": [
+                            { "materialsId": 1, "materialsName": "Course Introduction", "videoUrl": "" },
+                            { "materialsId": 2, "materialsName": "Introduction to Development Methodologies", "videoUrl": "" },
+                            { "materialsId": 3, "materialsName": "Agile Practices", "videoUrl": "" },
+                            { "materialsId": 4, "materialsName": "Waterfall and Hybrid Models", "videoUrl": "" },
+                            { "materialsId": 5, "materialsName": "Summary", "videoUrl": "" }
+                        ]
+                    },
+                    {
+                        "syllabusId": 3,
+                        "syllabusName": "Advanced Interaction Techniques",
+                        "syllabusContent": "Learn about Agile, Waterfall, and other development methodologies.",
+                        "learningObjectives": [
+                            "Compare different development methodologies.",
+                            "Implement Agile practices.",
+                            "Understand Waterfall and hybrid models."
+                        ],
+                        "materials": [
+                            { "materialsId": 1, "materialsName": "Course Introduction", "videoUrl": "" },
+                            { "materialsId": 2, "materialsName": "Introduction to Development Methodologies", "videoUrl": "" },
+                            { "materialsId": 3, "materialsName": "Agile Practices", "videoUrl": "" },
+                            { "materialsId": 4, "materialsName": "Waterfall and Hybrid Models", "videoUrl": "" },
+                            { "materialsId": 5, "materialsName": "Summary", "videoUrl": "" }
+                        ]
+                    }
+                ]
+            },
+            { 
+                "courseId": 4, 
+                "courseName": "UX Research Methods",
+                "courseContent": "Delve deeper into UX research methods, including qualitative and quantitative research techniques." ,
+                "imgUrl": "https://www.shutterstock.com/image-vector/application-smartphone-business-graph-analytics-260nw-1583248045.jpg",
+                "instructorName": "Emily Turner",
+                "instructorTitle": "UX Researcher, Amazon",
+                "instructorAvatar": "https://drive.google.com/file/d/1s-1HgbLI8xRc29Z86a5ZsTcfjOyGq9mA/view?usp=sharing",
+                "syllabuses": [
+                    {
+                        "syllabusId": 1,
+                        "syllabusName": "Qualitative Research Techniques",
+                        "syllabusContent": "Understand the phases of the software development lifecycle.",
+                        "learningObjectives": [
+                            "Explain the stages of the software lifecycle.",
+                            "Identify key activities in each phase.",
+                            "Apply lifecycle models to real projects."
+                        ],
+                        "materials": [
+                            { "materialsId": 1, "materialsName": "Course Introduction", "videoUrl": "" },
+                            { "materialsId": 2, "materialsName": "Introduction to Software Development", "videoUrl": "" },
+                            { "materialsId": 3, "materialsName": "Phases of the Software Lifecycle", "videoUrl": "" },
+                            { "materialsId": 4, "materialsName": "Lifecycle Models", "videoUrl": "" },
+                            { "materialsId": 5, "materialsName": "Summary", "videoUrl": "" }
+                        ]
+                    },
+                    {
+                        "syllabusId": 2,
+                        "syllabusName": "Quantitative Research Techniques",
+                        "syllabusContent": "Learn about Agile, Waterfall, and other development methodologies.",
+                        "learningObjectives": [
+                            "Compare different development methodologies.",
+                            "Implement Agile practices.",
+                            "Understand Waterfall and hybrid models."
+                        ],
+                        "materials": [
+                            { "materialsId": 1, "materialsName": "Course Introduction", "videoUrl": "" },
+                            { "materialsId": 2, "materialsName": "Introduction to Development Methodologies", "videoUrl": "" },
+                            { "materialsId": 3, "materialsName": "Agile Practices", "videoUrl": "" },
+                            { "materialsId": 4, "materialsName": "Waterfall and Hybrid Models", "videoUrl": "" },
+                            { "materialsId": 5, "materialsName": "Summary", "videoUrl": "" }
+                        ]
+                    },
+                    {
+                        "syllabusId": 3,
+                        "syllabusName": "Mixed Methods Research",
+                        "syllabusContent": "Learn about Agile, Waterfall, and other development methodologies.",
+                        "learningObjectives": [
+                            "Compare different development methodologies.",
+                            "Implement Agile practices.",
+                            "Understand Waterfall and hybrid models."
+                        ],
+                        "materials": [
+                            { "materialsId": 1, "materialsName": "Course Introduction", "videoUrl": "" },
+                            { "materialsId": 2, "materialsName": "Introduction to Development Methodologies", "videoUrl": "" },
+                            { "materialsId": 3, "materialsName": "Agile Practices", "videoUrl": "" },
+                            { "materialsId": 4, "materialsName": "Waterfall and Hybrid Models", "videoUrl": "" },
+                            { "materialsId": 5, "materialsName": "Summary", "videoUrl": "" }
+                        ]
+                    }
+                ]
+            },
+            { 
+                "courseId": 5, 
+                "courseName": "Advanced UX/UI Design",
+                "courseContent": "Master advanced UX/UI design techniques, including accessibility, mobile design, and responsive design." ,
+                "imgUrl": "https://www.shutterstock.com/image-vector/application-smartphone-business-graph-analytics-260nw-1583248045.jpg",
+                "instructorName": "Michael Anderson",
+                "instructorTitle": "Senior UX/UI Designer, IBM",
+                "instructorAvatar": "https://drive.google.com/file/d/1s-1HgbLI8xRc29Z86a5ZsTcfjOyGq9mA/view?usp=sharing",
+                "syllabuses": [
+                    {
+                        "syllabusId": 1,
+                        "syllabusName": "Accessibility in UX/UI Design",
+                        "syllabusContent": "Understand the phases of the software development lifecycle.",
+                        "learningObjectives": [
+                            "Explain the stages of the software lifecycle.",
+                            "Identify key activities in each phase.",
+                            "Apply lifecycle models to real projects."
+                        ],
+                        "materials": [
+                            { "materialsId": 1, "materialsName": "Course Introduction", "videoUrl": "" },
+                            { "materialsId": 2, "materialsName": "Introduction to Software Development", "videoUrl": "" },
+                            { "materialsId": 3, "materialsName": "Phases of the Software Lifecycle", "videoUrl": "" },
+                            { "materialsId": 4, "materialsName": "Lifecycle Models", "videoUrl": "" },
+                            { "materialsId": 5, "materialsName": "Summary", "videoUrl": "" }
+                        ]
+                    },
+                    {
+                        "syllabusId": 2,
+                        "syllabusName": "obile UX/UI Design",
+                        "syllabusContent": "Learn about Agile, Waterfall, and other development methodologies.",
+                        "learningObjectives": [
+                            "Compare different development methodologies.",
+                            "Implement Agile practices.",
+                            "Understand Waterfall and hybrid models."
+                        ],
+                        "materials": [
+                            { "materialsId": 1, "materialsName": "Course Introduction", "videoUrl": "" },
+                            { "materialsId": 2, "materialsName": "Introduction to Development Methodologies", "videoUrl": "" },
+                            { "materialsId": 3, "materialsName": "Agile Practices", "videoUrl": "" },
+                            { "materialsId": 4, "materialsName": "Waterfall and Hybrid Models", "videoUrl": "" },
+                            { "materialsId": 5, "materialsName": "Summary", "videoUrl": "" }
+                        ]
+                    },
+                    {
+                        "syllabusId": 3,
+                        "syllabusName": "Responsive Design",
+                        "syllabusContent": "Learn about Agile, Waterfall, and other development methodologies.",
+                        "learningObjectives": [
+                            "Compare different development methodologies.",
+                            "Implement Agile practices.",
+                            "Understand Waterfall and hybrid models."
+                        ],
+                        "materials": [
+                            { "materialsId": 1, "materialsName": "Course Introduction", "videoUrl": "" },
+                            { "materialsId": 2, "materialsName": "Introduction to Development Methodologies", "videoUrl": "" },
+                            { "materialsId": 3, "materialsName": "Agile Practices", "videoUrl": "" },
+                            { "materialsId": 4, "materialsName": "Waterfall and Hybrid Models", "videoUrl": "" },
+                            { "materialsId": 5, "materialsName": "Summary", "videoUrl": "" }
+                        ]
+                    }
+                ]
+            }
+        ]
+      }
+    ]
+  }
+  
